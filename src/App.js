@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./App.css";
 import Contact from './components/Contact/Contact';
 import Main from "./components/Main/Main";
