@@ -12,6 +12,7 @@ const Contact = () => (
       <Form />
     </Container>
     <footer>
+      <p>Designed with ❤️ by Devang Soni</p> 
       <p>
         Copyright &copy; 2022 SoniFlex Gym
       </p>
